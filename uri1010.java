@@ -23,5 +23,4 @@ public class uri1010 {
 
 		sc.close();
 	}
-
 }
