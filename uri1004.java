@@ -15,5 +15,4 @@ public class uri1004 {
 
 		sc.close();
 	}
-
 }
