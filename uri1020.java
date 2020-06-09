@@ -17,16 +17,7 @@ public class uri1020 {
 		System.out.println(anos + " ano(s)");
 		System.out.println(meses + " ano(es)");
 		System.out.println(dias + " ano(s)");
-		
-		
-		
-		
-	
-		
-		
-		
-		
-		
+
 		sc.close();
 	}
 
