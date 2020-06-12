@@ -20,6 +20,7 @@ public class uri1019 {
 		System.out.println(horas + ":" + minutos + ":" + segundos);
 		
 		
+		
 		sc.close();
 	}
 
