@@ -7,12 +7,11 @@ public class uri1078 {
 		
 		int N = sc.nextInt();
 		
-		
-		for(int i=1; i <= 10; i ++) {
+		for(int i=1; i<=10; i++) {
 			int soma = i * N;
-			System.out.println(i + " x " + N + " = " + soma);
+			System.out.println(i + " x " +  N + " = " + soma);
 		}
-		
+
 		sc.close();
 	}
 
